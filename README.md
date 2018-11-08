@@ -5,6 +5,6 @@ This repository will hold the Code accompanying my text, _Computer Engineering -
 * Part III: High-Level Abstractions
 
 Part I of the book covers the foundations of computing, the math, the digital circuitry combining logic gates, memory, computation models like Finite State Machines and Turing Machines. The goal is to present the buidling blocks that a computer is made of. Part II covers the blueprint (ISA) of a computer and the means to program it in assembly language. The specific ISA used is the ARM Cortex M0 realized on the BBC Microbit. The BBC Microbit is a little computer that is more appropriately refered to as a micro-controller. 
-<img src="https://github.com/igoeco/CEIntro/blob/master/images/Microbit-Pins.png" alt="BBC Microbit" style="width:200px;"/>
+<img src="https://github.com/igoeco/CEIntro/blob/master/images/Microbit-Pins.png" alt="BBC Microbit" width="200"/>
 
 
